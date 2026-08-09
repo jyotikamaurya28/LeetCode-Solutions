@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,4 +46,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Math
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
