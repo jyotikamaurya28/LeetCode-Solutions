@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
 |  |
 | ------- |
