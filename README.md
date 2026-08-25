@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0424-longest-repeating-character-replacement](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1927-sum-game](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Design
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
