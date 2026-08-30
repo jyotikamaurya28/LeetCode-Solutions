@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1927-sum-game](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
