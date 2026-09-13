@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0835-image-overlap](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0835-image-overlap](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
