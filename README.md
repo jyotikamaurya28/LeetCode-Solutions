@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
