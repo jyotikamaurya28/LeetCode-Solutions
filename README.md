@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0212-word-search-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [1096-brace-expansion-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
