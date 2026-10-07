@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
