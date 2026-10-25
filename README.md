@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
