@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
