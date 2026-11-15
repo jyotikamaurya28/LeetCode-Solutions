@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
