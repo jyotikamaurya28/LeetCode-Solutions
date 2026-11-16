@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jyotikamaurya28/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
